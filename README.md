@@ -1,2 +1,2 @@
 # Computer-Organization-full-version
-Materials on video course Computer Organization and Design (available on bilibili.com)
+Serial video course available on my Bilibili homepage https://space.bilibili.com/157724693
